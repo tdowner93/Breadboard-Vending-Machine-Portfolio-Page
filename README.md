@@ -66,6 +66,7 @@ The vending machine returns to its initial state, ready for another transaction.
 ![Screenshot 2025-02-27 122704](https://github.com/user-attachments/assets/c4afed0f-69ee-4579-acc3-f41cbf934822)
 
 Old-school vending machines, like the classic Coca-Cola machines from the 1950s, used electromechanical systems to process coins and dispense items. Our breadboard vending machine simplifies this by using basic digital logic components like switches, LEDs, and an SR latch. Instead of motors and sensors, our design uses logic gates to control when an item is dispensed. This project is a small-scale, educational version of how vending machines function at their core.
+# 
 
 # References 
 Justice, M. (2021). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
