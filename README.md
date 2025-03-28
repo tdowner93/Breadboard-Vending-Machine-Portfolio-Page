@@ -66,7 +66,37 @@ The vending machine returns to its initial state, ready for another transaction.
 ![Screenshot 2025-02-27 122704](https://github.com/user-attachments/assets/c4afed0f-69ee-4579-acc3-f41cbf934822)
 
 Old-school vending machines, like the classic Coca-Cola machines from the 1950s, used electromechanical systems to process coins and dispense items. Our breadboard vending machine simplifies this by using basic digital logic components like switches, LEDs, and an SR latch. Instead of motors and sensors, our design uses logic gates to control when an item is dispensed. This project is a small-scale, educational version of how vending machines function at their core.
-# 
+
+# Rasberry Pi Vending Machine 
+A Raspberry Pi is a small, low-cost computer that you can use for many different projects, like building a robot, creating a home media center, or learning to code. It works like a regular computer—you can connect a monitor, keyboard, and mouse to it—but it's much smaller and cheaper. People use it for fun DIY projects, education, and even advanced tech applications!
+
+# Creating A Vedning Machine 
+
+In this picture, we are putting together the breadboard which basically works as the visualization for what we code to the Raspberry Pi.
+
+![IMG_4756](https://github.com/user-attachments/assets/82493798-f6a7-48f5-8099-9702263e7718)
+
+![IMG_4759](https://github.com/user-attachments/assets/8c201683-a104-49d1-81ab-fa7b47cd51e5)
+# Diagrams 
+
+![Screenshot 2025-03-27 104608](https://github.com/user-attachments/assets/949d5555-8369-4c40-aff3-f434573bf6c3)
+
+![Screenshot 2025-03-27 100230](https://github.com/user-attachments/assets/bea775c9-ac54-4b2c-8ab2-c0dd78c9226e)
+
+# LED ON
+![IMG_4754](https://github.com/user-attachments/assets/643ba8ae-cde7-4a27-9694-53601648505c)
+
+# LED OFF
+![IMG_4760](https://github.com/user-attachments/assets/726a8747-9f9a-4135-99e5-754d8c31a174)
+
+
+
+
+
+
+
+
+
 
 # References 
 Justice, M. (2021). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
